@@ -11,6 +11,10 @@ A beautiful and functional Todo application built with React and Tailwind CSS. T
 - Responsive design that works on all devices
 - Smooth animations and transitions
 
+## 🌐 Live Demo
+
+Check out the live demo of the application: [Todo App](https://to-do-app-alpha-eight-68.vercel.app/)
+
 ## 🚀 Getting Started
 
 ### Prerequisites
